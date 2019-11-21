@@ -7,3 +7,16 @@ It will run indefinitely as a clock would and requires no interaction from the u
 ![Binary Clock Demo](demo/binary_clock.gif)
 
 *Animated GIF will continuously loop; does not reflect current time.*
+
+---
+
+## Run Instructions
+1. Java8 may need to be installed on your machine
+1. Luanch the 'BinaryClock.jar' executable
+
+---
+
+## Specifications
+
+* **Java** for clock logic
+* **Java Swing** for graphical user interface
