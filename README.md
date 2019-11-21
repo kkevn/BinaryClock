@@ -12,7 +12,7 @@ It will run indefinitely as a clock would and requires no interaction from the u
 
 ## Run Instructions
 1. Java8 may need to be installed on your machine
-1. Launch the `BinaryClock.jar` executable
+1. Launch the `/dist/BinaryClock.jar` executable
 
 ---
 
