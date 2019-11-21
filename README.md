@@ -4,6 +4,8 @@ Created in 2014, this project was my first personal project that I successfully 
 
 It will run indefinitely as a clock would and requires no interaction from the user after launching.
 
+Using the image below, the red, green, and blue respectively correspond to hours, minutes, and seconds.
+
 ![Binary Clock Demo](demo/binary_clock.gif)
 
 *Animated GIF will continuously loop; does not reflect current time.*
